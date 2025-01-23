@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjFjvBcofpEi4AkOmcwvzn/Vw7oYL17mWgJVQcKdmat2QKU9iX1HHITDXwLiEw3/0qVedGS1e3LaJng+oItBZw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\C#\\TextOptimizer\\TextOptimizer\\TextOptimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Walter O`Brien\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",
+    "C:\\Users\\Walter O`Brien\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
