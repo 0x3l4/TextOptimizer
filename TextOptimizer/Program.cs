@@ -5,7 +5,7 @@ namespace TextOptimizer
 	{
 		public static void Main()
 		{
-			string inputFileName = "russian_verbs.txt";
+			string inputFileName = "russian_nouns.txt";
 			string outputFileName = $"filtered_{inputFileName}";
 			string binPath = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
 			string inputFilePath = Path.Combine(binPath, "Input", $"{inputFileName}");
